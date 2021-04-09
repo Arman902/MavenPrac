@@ -1,4 +1,4 @@
-package com.adp2.submissions;
+package ac.za.cput.<adp2>;
 
 @ Author Armand Nziza (217035019)
 @Class Group 2A
