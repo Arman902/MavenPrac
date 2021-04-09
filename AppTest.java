@@ -1,4 +1,4 @@
-package com.adp2.submissions;
+package ac.za.cput.<adp2>;
 
 import static org.junit.Assert.assertTrue;
 
